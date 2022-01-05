@@ -26,6 +26,7 @@ const PokeAPI = () => {
         });
     }
     fetchPoke();
+
     // async function getPoke() {
     //   console.log("getpoke");
     //   const response = await fetchPoke();
